@@ -5,7 +5,7 @@ def main():     #Fuente: https://www.delftstack.com/es/howto/python/fibonacci-se
     b=1
     total=0
     while i<=-1:
-        i=int(input())
+        i= int(input())
     if i==1:
         lista.append(0)
         print(lista)
